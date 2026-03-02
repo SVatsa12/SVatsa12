@@ -1,32 +1,27 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=39D353¢er=true&width=600&lines=Hey+there!+I'm+Shubham+%F0%9F%91%8B;Code.+Learn.+Iterate.+Repeat.;Building+things+for+the+future!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shubham+%F0%9F%91%8B;Building+AI-powered,+scalable+systems.;Code.+Learn.+Iterate.+Repeat.)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/SVatsa12/SVatsa12/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/SVatsa12/SVatsa12/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
-
-## 🧑‍💻 About Me
-
-```
+About Me
 📍 Bengaluru, India
-🔭 Currently building: AI-Project-Manager & StandNote
-📖 Learning: DSA (Striver's A2Z) + System Design
-💬 Ask me about: JavaScript, Node.js, or anything web
+🔭 Currently Building: StandNote & AI-Project-Manager
+📖 In the process of Learning Computer Science
+🧠 Interests: Scalable Systems, AI Pipelines, Backend Architecture
 📫 Reach me: qshubhamq2@gmail.com
-```
+
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,fastapi,mongodb,mysql,git,github" />
+</p>
 
 ---
 
@@ -39,7 +34,7 @@
 
 ---
 
-## 🔥 Streak
+## 🔥 Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SVatsa12&theme=github-dark-blue&hide_border=true" />
@@ -47,8 +42,14 @@
 
 ---
 
+## 🚀 Current Focus
+
+- Improving backend architecture patterns
+- Building production-ready AI systems
+- Writing cleaner, modular code
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SVatsa12&color=39d353&style=flat-square&label=PROFILE+VIEWS" />
 </div>
-
-<!-- "Code. Learn. Iterate. Repeat." -->
