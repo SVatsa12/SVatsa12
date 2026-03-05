@@ -32,11 +32,39 @@ My interests include backend development, system design, and building tools that
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,fastapi,mongodb,mysql,git,github" />
-</p>
+## 🛠 Tech Stack
 
----
+```mermaid
+graph TD
+
+A[Tech Stack]
+
+A --> B[Languages]
+B --> B1[Java]
+B --> B2[JavaScript]
+B --> B3[Python]
+
+A --> C[Backend]
+C --> C1[Node.js]
+C --> C2[Express]
+C --> C3[FastAPI]
+
+A --> D[Frontend]
+D --> D1[React]
+D --> D2[Tailwind CSS]
+
+A --> E[Databases]
+E --> E1[MongoDB]
+E --> E2[MySQL]
+
+F --> F1[Docker]
+F --> F2[GitHub Actions]
+
+A --> G[Tools]
+G --> G1[Git]
+G --> G2[Linux]
+G --> G3[Postman]
+```
 
 ## 📊 GitHub Stats
 
