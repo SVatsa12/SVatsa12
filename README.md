@@ -31,31 +31,12 @@ My interests include backend development, system design, and building tools that
 ---
 
 
+
 ## 🛠 Tech Stack
 
-```mermaid
-graph LR
-
-Java --> Backend
-Python --> Backend
-JavaScript --> Frontend
-
-Backend --> NodeJS
-Backend --> Express
-Backend --> FastAPI
-
-Frontend --> React
-Frontend --> Tailwind
-
-NodeJS --> MongoDB
-FastAPI --> MySQL
-
-Docker --> Deployment
-GitHubActions --> CI/CD
-
-Git --> Development
-Linux --> Development
-```
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python,nodejs,react,fastapi,mongodb,mysql,docker,git,linux&theme=dark" />
+</p>
 
 ## 📊 GitHub Stats
 
