@@ -7,16 +7,27 @@
 </div>
 
 ---
-About
-I'm a software developer who enjoys solving real engineering problems through well-designed systems. 
-My interests include backend development, system design, and building tools that streamline developer workflows. 
-Currently working on a **Deployment Automation Tool** that automates build and deployment pipelines for personal projects.
-📍 Bengaluru, India
-🔭 Currently Building: StandNote & AI-Project-Manager
-📖 In the process of Learning Computer Science
-🧠 Interests: Scalable Systems, AI Pipelines, Backend Architecture
-📫 Reach me: qshubhamq2@gmail.com
+## 👨‍💻 About Me
 
+I'm a software developer who enjoys solving real engineering problems through well-designed systems.
+My interests include backend development, system design, and building tools that streamline developer workflows.
+Currently working on a **Deployment Automation Tool** that automates build and deployment pipelines for personal projects.
+
+### 🔍 Focus Areas
+
+* Backend Engineering
+* System Design
+* Developer Tools & Automation
+* AI Applications
+
+### 🚀 Current Work
+
+* Building a **Deployment Automation Tool** for automating build and deployment workflows.
+
+### 📫 Contact
+
+* **Email:** [gshubhamq2@gmail.com](mailto:gshubhamq2@gmail.com)
+* **Location:** Bengaluru, India
 
 ---
 
