@@ -30,40 +30,31 @@ My interests include backend development, system design, and building tools that
 
 ---
 
-## ⚙️ Tech Stack
 
 ## 🛠 Tech Stack
 
 ```mermaid
-graph TD
+graph LR
 
-A[Tech Stack]
+Java --> Backend
+Python --> Backend
+JavaScript --> Frontend
 
-A --> B[Languages]
-B --> B1[Java]
-B --> B2[JavaScript]
-B --> B3[Python]
+Backend --> NodeJS
+Backend --> Express
+Backend --> FastAPI
 
-A --> C[Backend]
-C --> C1[Node.js]
-C --> C2[Express]
-C --> C3[FastAPI]
+Frontend --> React
+Frontend --> Tailwind
 
-A --> D[Frontend]
-D --> D1[React]
-D --> D2[Tailwind CSS]
+NodeJS --> MongoDB
+FastAPI --> MySQL
 
-A --> E[Databases]
-E --> E1[MongoDB]
-E --> E2[MySQL]
+Docker --> Deployment
+GitHubActions --> CI/CD
 
-F --> F1[Docker]
-F --> F2[GitHub Actions]
-
-A --> G[Tools]
-G --> G1[Git]
-G --> G2[Linux]
-G --> G3[Postman]
+Git --> Development
+Linux --> Development
 ```
 
 ## 📊 GitHub Stats
