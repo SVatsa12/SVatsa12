@@ -7,7 +7,10 @@
 </div>
 
 ---
-About Me
+About
+I'm a software developer who enjoys solving real engineering problems through well-designed systems. 
+My interests include backend development, system design, and building tools that streamline developer workflows. 
+Currently working on a **Deployment Automation Tool** that automates build and deployment pipelines for personal projects.
 📍 Bengaluru, India
 🔭 Currently Building: StandNote & AI-Project-Manager
 📖 In the process of Learning Computer Science
