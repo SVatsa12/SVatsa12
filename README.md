@@ -41,10 +41,12 @@ My interests include backend development, system design, and building tools that
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SVatsa12&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVatsa12&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=SVatsa12&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=SVatsa12&theme=github-dark&hide_border=true" height="165"/>
+
+</div>
 ---
 
 ## 🔥 Contribution Streak
