@@ -25,6 +25,8 @@ My interests include backend development, system design, and building tools that
 
 ### 📫 Contact
 
+
+* **LinkedIn:** [linkedin.com/in/svatsa12](https://www.linkedin.com/in/svatsa12)
 * **Email:** [gshubhamq2@gmail.com](mailto:gshubhamq2@gmail.com)
 * **Location:** Bengaluru, India
 
