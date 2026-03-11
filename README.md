@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 I'm a software developer who enjoys solving real engineering problems through well-designed systems.
-My interests include backend development, system design, and building tools that streamline developer workflows.
+My interests include backend development, system design, and building tools that streamline developer workflows.I am currently trying out several new technology stacks.
 
 ### 🔍 Focus Areas
 
