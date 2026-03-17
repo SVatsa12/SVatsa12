@@ -1,20 +1,10 @@
 <div align="center">
 
-<!-- HEADER: Clean SVG text instead of broken box -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header" width="100%"/>
+<!-- Single capsule-render banner with name + subtitle baked in -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2a1a,100:0d1117&height=220&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=00ff9c&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<!-- Name in big clean font -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Shubham+Vatsa" alt="Shubham Vatsa"/>
-
-<!-- Role line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=99999&color=00FF9C&center=true&vCenter=true&width=700&height=30&lines=3rd-year+SE+student+·+Backend+Engineer+·+Bengaluru%2C+IN" alt="role"/>
-
-<br/>
-
-<!-- Animated command lines -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=28&lines=git+push+origin+main+→+deployed+✓;docker+build+.+→+successfully+tagged;npm+run+build+→+compiled+in+0.4s+⚡;ssh+vatsa%40bengaluru+→+connection+established;curl+%2FgetShubham+→+%7B+available%3A+true+%7D" alt="commands"/>
+<!-- Single typing SVG — one at a time, no conflicts -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=git+push+origin+main+--+deployed+%E2%9C%93;docker+build+.+--+successfully+tagged;npm+run+build+--+compiled+in+0.4s;ssh+vatsa%40bengaluru+--+connected;curl+%2FgetShubham+--+%7B+available%3A+true+%7D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +20,7 @@
 
 ---
 
-## `~/Tech stack` 
+## `~/stack` — What I Actually Use
 
 > No fake badges. Just real tools I've wrestled with.
 
@@ -76,7 +66,7 @@ Git/GitHub  █████████░  always-on
 
 ---
 
-##  Currently Building
+## `~/ship` — Currently Building
 
 ```diff
 + [ACTIVE]  Deployment Automation Tool
@@ -84,8 +74,6 @@ Git/GitHub  █████████░  always-on
             Zero-touch pipelines · Multi-env support · Auto rollback
             Status: █████████░ 90% → approaching public beta
 
-- [QUEUED]  Open-source CLI toolkit for dev workflows
-- [QUEUED]  LLM-powered code review assistant
 ```
 
 ---
@@ -103,7 +91,7 @@ Git/GitHub  █████████░  always-on
 
 ---
 
-## `~/log` — Commit Snake 🐍
+## Contributions 🐍
 
 > *My contributions, eaten alive.*
 
@@ -118,13 +106,12 @@ Git/GitHub  █████████░  always-on
 </div>
 
 
+
+
 ## `~/connect` — Open Channels
 
 <div align="center">
 
-| 📡 | 📬 | 📍 |
-|:---:|:---:|:---:|
-| [linkedin.com/in/svatsa12](https://linkedin.com/in/svatsa12) | [qshubhamq2@gmail.com](mailto:qshubhamq2@gmail.com) | Bengaluru, India |
 
 **Open to:** internships &nbsp;·&nbsp; OSS collabs &nbsp;·&nbsp; interesting problems
 
