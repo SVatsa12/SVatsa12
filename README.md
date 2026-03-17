@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Single capsule-render banner with name + subtitle baked in -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2a1a,100:0d1117&height=220&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=00ff9c&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2a1a,100:0d1117&height=220&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20FullStack%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=00ff9c&animation=fadeIn" width="100%"/>
 
 <!-- Single typing SVG — one at a time, no conflicts -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=git+push+origin+main+--+deployed+%E2%9C%93;docker+build+.+--+successfully+tagged;npm+run+build+--+compiled+in+0.4s;ssh+vatsa%40bengaluru+--+connected;curl+%2FgetShubham+--+%7B+available%3A+true+%7D)](https://git.io/typing-svg)
