@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **// Languages**
 ```
@@ -37,7 +37,7 @@ JavaScript  ████████░░  front+back
 ```
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **// Frontend**
 ```
@@ -48,7 +48,7 @@ HTML + CSS  █████████░  always
 ```
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **// Backend & Infra**
 ```
@@ -58,6 +58,16 @@ FastAPI     ██████░░░░  Python REST
 Docker      ██████░░░░  containers
 AWS + Linux ████████░░  deploy/run
 Git/GitHub  █████████░  always-on
+```
+
+</td>
+<td valign="top" width="25%">
+
+**// Databases**
+```
+MySQL       ████████░░  relational
+MongoDB     ███████░░░  NoSQL/docs
+SQLite      ██████░░░░  lightweight
 ```
 
 </td>
@@ -78,7 +88,7 @@ Git/GitHub  █████████░  always-on
 
 ---
 
-## `~/stats` — By The Numbers
+## Statistics
 
 <div align="center">
 
@@ -91,7 +101,7 @@ Git/GitHub  █████████░  always-on
 
 ---
 
-## Contributions 🐍
+## Contribution 🐍
 
 > *My contributions, eaten alive.*
 
@@ -111,7 +121,7 @@ Git/GitHub  █████████░  always-on
 ## `~/connect` — Open Channels
 
 <div align="center">
-
+ | [qshubhamq2@gmail.com](mailto:qshubhamq2@gmail.com) | Bengaluru, India |
 
 **Open to:** internships &nbsp;·&nbsp; OSS collabs &nbsp;·&nbsp; interesting problems
 
