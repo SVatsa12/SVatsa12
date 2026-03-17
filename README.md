@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Vatsa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20System%20Designer%20%7C%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Vatsa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=SE%20Student%20%7C%20Backend%20Engineer%20%7C%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Developer+Tools+%F0%9F%94%A7;Exploring+AI+Applications+%F0%9F%A4%96;Always+Shipping.+Always+Learning.+%E2%9C%A8)](https://git.io/typing-svg)
@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Profile views + social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=svatsa12&label=Profile+Views&color=7c3aed&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SVatsa12&label=Profile+Views&color=7c3aed&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svatsa12)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gshubhamq2@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qshubhamq2@gmail.com)
 
 </div>
 
@@ -20,9 +20,9 @@
 ## 🧠 About Me
 
 ```yaml
-name:       Shubham Gupta
+name:       Shubham Vatsa
 location:   Bengaluru, India 🇮🇳
-role:       Software Developer → Backend & Systems Focus
+role:       3rd Year Software Engineering Student
 status:     Building in public | Always shipping
 
 focus:
@@ -100,10 +100,10 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=svatsa12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=svatsa12&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SVatsa12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SVatsa12&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svatsa12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVatsa12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%" />
 
 </div>
 
@@ -113,7 +113,7 @@ fun_fact: >
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=svatsa12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SVatsa12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -123,7 +123,7 @@ fun_fact: >
 
 <div align="center">
 
-[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=svatsa12&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SVatsa12&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -157,7 +157,7 @@ fun_fact: >
 🔭 Interesting backend/system design challenges &nbsp;|&nbsp; 🤝 Open-source collaborations &nbsp;|&nbsp; 💬 Tech discussions
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svatsa12)
-[![Email Me](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gshubhamq2@gmail.com)
+[![Email Me](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qshubhamq2@gmail.com)
 
 </div>
 
