@@ -1,177 +1,177 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Vatsa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=SE%20Student%20%7C%20Backend%20Engineer%20%7C%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Building+Developer+Tools+%F0%9F%94%A7;Exploring+AI+Applications+%F0%9F%A4%96;Always+Shipping.+Always+Learning.+%E2%9C%A8)](https://git.io/typing-svg)
+<!-- HEADER: Clean SVG text instead of broken box -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header" width="100%"/>
 
 <br/>
 
-<!-- Profile views + social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=SVatsa12&label=Profile+Views&color=7c3aed&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svatsa12)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qshubhamq2@gmail.com)
+<!-- Name in big clean font -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Shubham+Vatsa" alt="Shubham Vatsa"/>
+
+<!-- Role line -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=99999&color=00FF9C&center=true&vCenter=true&width=700&height=30&lines=3rd-year+SE+student+·+Backend+Engineer+·+Bengaluru%2C+IN" alt="role"/>
+
+<br/>
+
+<!-- Animated command lines -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=28&lines=git+push+origin+main+→+deployed+✓;docker+build+.+→+successfully+tagged;npm+run+build+→+compiled+in+0.4s+⚡;ssh+vatsa%40bengaluru+→+connection+established;curl+%2FgetShubham+→+%7B+available%3A+true+%7D" alt="commands"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SVatsa12&label=visitors&color=00ff9c&style=flat-square)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/svatsa12)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:qshubhamq2@gmail.com)
 
 </div>
 
+<br/>
+
 ---
 
-## 🧠 About Me
+## `~/Tech stack` 
 
-```yaml
-name:       Shubham Vatsa
-location:   Bengaluru, India 🇮🇳
-role:       3rd Year Software Engineering Student
-status:     Building in public | Always shipping
+> No fake badges. Just real tools I've wrestled with.
 
-focus:
-  - Backend Engineering & API Design
-  - System Design at Scale
-  - Developer Tools & Automation Workflows
-  - AI-Powered Applications
+<table>
+<tr>
+<td valign="top" width="33%">
 
-currently_building:
-  - 🚀 Deployment Automation Tool
-      → Automating build & deployment pipelines end-to-end
+**// Languages**
+```
+Python      ████████░░  solid
+Java        ███████░░░  daily
+C / C++     ██████░░░░  foundations
+JavaScript  ████████░░  front+back
+```
 
-currently_learning:
-  - Distributed Systems internals
-  - LLM integration patterns
-  - Infrastructure as Code (IaC)
+</td>
+<td valign="top" width="33%">
 
-fun_fact: >
-  I debug production issues faster than I find matching socks 🧦
+**// Frontend**
+```
+React       ████████░░  components
+Next.js     ███████░░░  full-stack
+Three.js    █████░░░░░  3D/canvas
+HTML + CSS  █████████░  always
+```
+
+</td>
+<td valign="top" width="33%">
+
+**// Backend & Infra**
+```
+Node.js     ████████░░  servers
+Express.js  ███████░░░  APIs
+FastAPI     ██████░░░░  Python REST
+Docker      ██████░░░░  containers
+AWS + Linux ████████░░  deploy/run
+Git/GitHub  █████████░  always-on
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `~/ship` — Currently Building
+
+```diff
++ [ACTIVE]  Deployment Automation Tool
+            Automates build & deploy workflows end-to-end.
+            Zero-touch pipelines · Multi-env support · Auto rollback
+            Status: █████████░ 90% → approaching public beta
+
+- [QUEUED]  Open-source CLI toolkit for dev workflows
+- [QUEUED]  LLM-powered code review assistant
 ```
 
 ---
 
-## ⚡ Tech Stack
+## `~/stats` — By The Numbers
 
 <div align="center">
 
-### 🖥️ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://github-readme-stats.vercel.app/api?username=SVatsa12&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=8b949e&ring_color=00ff9c&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SVatsa12&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🔧 Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### ☁️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVatsa12&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=8b949e&langs_count=6" width="49%"/>
 
 </div>
 
 ---
 
-## 🚀 Current Project Spotlight
+## `~/log` — Commit Snake 🐍
+
+> *My contributions, eaten alive.*
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SVatsa12/SVatsa12/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SVatsa12/SVatsa12/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SVatsa12/SVatsa12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+> ⚙️ **Setup the snake:** Add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: SVatsa12
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## `~/goals` — Q3–Q4 2025 Objectives
+
+```bash
+[ ] ship deployment-tool --env=public-beta
+[ ] publish --topic="system-design" --count=12  # blog posts
+[ ] contribute --repos=5 --type=open-source
+[ ] speak --event="Bengaluru dev meetup"
+[ ] learn --subject="distributed-systems internals"
 ```
-╔══════════════════════════════════════════════════════════════╗
-║          🛠️  DEPLOYMENT AUTOMATION TOOL                      ║
-╠══════════════════════════════════════════════════════════════╣
-║  Automates end-to-end build & deployment workflows           ║
-║                                                              ║
-║  ✅  Zero-touch CI/CD pipeline orchestration                 ║
-║  ✅  Multi-environment deployment management                 ║
-║  ✅  Rollback & health check automation                      ║
-║  ✅  Developer-first CLI experience                          ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
-## 📊 GitHub Stats
+## `~/connect` — Open Channels
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SVatsa12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SVatsa12&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="49%" />
+| 📡 | 📬 | 📍 |
+|:---:|:---:|:---:|
+| [linkedin.com/in/svatsa12](https://linkedin.com/in/svatsa12) | [qshubhamq2@gmail.com](mailto:qshubhamq2@gmail.com) | Bengaluru, India |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVatsa12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%" />
+**Open to:** internships &nbsp;·&nbsp; OSS collabs &nbsp;·&nbsp; interesting problems
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svatsa12)
+[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qshubhamq2@gmail.com)
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+*`// if you found something useful → ⭐ the repo. it compounds.`*
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SVatsa12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SVatsa12&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎯 2025 Goals
-
-- [ ] 🌟 **Star 3 open-source repos** I actively maintain
-- [ ] 📝 **Publish 12 technical blogs** on system design & backend
-- [ ] 🚀 **Ship** the Deployment Automation Tool to public beta
-- [ ] 🤝 **Contribute** to 5+ open-source projects
-- [ ] 🎤 **Give a talk** at a local developer meetup in Bengaluru
-
----
-
-## 📝 Latest Thinking
-
-> 💡 *"Good systems design is invisible — users only notice it when it breaks."*
-
-> 🔧 *"Automate the boring stuff. Twice. Then open-source it."*
-
-> 🤖 *"AI doesn't replace engineers — it replaces engineers who don't use AI."*
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-**I'm always open to:**
-🔭 Interesting backend/system design challenges &nbsp;|&nbsp; 🤝 Open-source collaborations &nbsp;|&nbsp; 💬 Tech discussions
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svatsa12)
-[![Email Me](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qshubhamq2@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
-
-*⭐ If you find my work useful, consider starring my repos — it helps more developers discover them!*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=footer" width="100%"/>
 
 </div>
