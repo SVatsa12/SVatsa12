@@ -76,7 +76,7 @@ Git/GitHub  █████████░  always-on
 
 ---
 
-## `~/ship` — Currently Building
+##  Currently Building
 
 ```diff
 + [ACTIVE]  Deployment Automation Tool
@@ -117,43 +117,6 @@ Git/GitHub  █████████░  always-on
 
 </div>
 
-> ⚙️ **Setup the snake:** Add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: SVatsa12
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
-## `~/goals` — Q3–Q4 2025 Objectives
-
-```bash
-[ ] ship deployment-tool --env=public-beta
-[ ] publish --topic="system-design" --count=12  # blog posts
-[ ] contribute --repos=5 --type=open-source
-[ ] speak --event="Bengaluru dev meetup"
-[ ] learn --subject="distributed-systems internals"
-```
-
----
 
 ## `~/connect` — Open Channels
 
