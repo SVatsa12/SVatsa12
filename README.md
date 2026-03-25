@@ -121,7 +121,7 @@ SQLite      ██████░░░░  lightweight
 ## `~/connect` — Open Channels
 
 <div align="center">
- | qshubhamq2@gmail.com| Bengaluru, India |
+ | qshubhamq2@gmail.com | Bengaluru, India |
 
 **Open to:** internships &nbsp;·&nbsp; OSS collabs &nbsp;·&nbsp; interesting problems
 
