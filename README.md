@@ -1,24 +1,26 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=1000&color=22C55E&center=true&vCenter=true&width=700&height=80&lines=Shubham+Vatsa" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2a1a,100:0d1117&height=200&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20FullStack%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=00ff9c&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,50:e8f5e9,100:ffffff&height=200&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=0d1117&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20FullStack%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=1a7a3a&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2a1a,100:0d1117&height=200&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20FullStack%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=00ff9c&animation=fadeIn" width="100%"/>
-</picture>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=3rd-year+SE+Student+%C2%B7+FullStack+Engineer+%C2%B7+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=git+push+origin+main+--+deployed+%E2%9C%93;docker+build+.+--+successfully+tagged;npm+run+build+--+compiled+in+0.4s;ssh+vatsa%40bengaluru+--+connected;curl+%2FgetShubham+--+%7B+available%3A+true+%7D" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=git+push+origin+main+--+deployed+%E2%9C%93;docker+build+.+--+successfully+tagged;npm+run+build+--+compiled+in+0.4s;ssh+vatsa%40bengaluru+--+connected;curl+%2FgetShubham+--+%7B+available%3A+true+%7D)](https://git.io/typing-svg)
-
-</div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SVatsa12&label=visitors&color=00ff9c&style=flat-square)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/svatsa12)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:qshubhamq2@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SVatsa12&label=visitors&color=00ff9c&style=flat-square" />
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/svatsa12">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:qshubhamq2@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
