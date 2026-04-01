@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 <!-- Dark mode banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2a1a,100:0d1117&height=200&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20FullStack%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=00ff9c&animation=fadeIn" width="100%"  #gh-dark-mode-only/>
 
