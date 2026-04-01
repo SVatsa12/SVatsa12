@@ -1,17 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=1000&color=22C55E&center=true&vCenter=true&width=700&height=80&lines=Shubham+Vatsa" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=22C55E&center=true&vCenter=true&repeat=false&width=700&height=90&lines=Shubham+Vatsa" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=3rd-year+SE+Student+%C2%B7+FullStack+Engineer+%C2%B7+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=99999&color=6B7280&center=true&vCenter=true&repeat=false&width=600&height=25&lines=3rd-year+SE+Student+%C2%B7+FullStack+Engineer+%C2%B7+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=2000&color=22C55E&center=true&vCenter=true&width=600&height=28&lines=git+push+origin+main+--+deployed+%E2%9C%93;docker+build+.+--+successfully+tagged;npm+run+build+--+compiled+in+0.4s;ssh+vatsa%40bengaluru+--+connected;curl+%2FgetShubham+--+%7B+available%3A+true+%7D" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=git+push+origin+main+--+deployed+%E2%9C%93;docker+build+.+--+successfully+tagged;npm+run+build+--+compiled+in+0.4s;ssh+vatsa%40bengaluru+--+connected;curl+%2FgetShubham+--+%7B+available%3A+true+%7D" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SVatsa12&label=visitors&color=00ff9c&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=SVatsa12&label=visitors&color=22C55E&style=flat-square" />
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/svatsa12">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
