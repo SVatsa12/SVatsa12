@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- Dark mode banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2a1a,100:0d1117&height=200&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20FullStack%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=00ff9c&animation=fadeIn" width="100%"  #gh-dark-mode-only/>
 
-<!-- Light mode banner — dark text, light background -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,50:e8f5e9,100:ffffff&height=200&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=0d1117&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20FullStack%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=1a7a3a&animation=fadeIn" width="100%"  #gh-light-mode-only/>
+<!-- Dark mode banner -->
+![dark-banner](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2a1a,100:0d1117&height=200&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20FullStack%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=00ff9c&animation=fadeIn#gh-dark-mode-only)
+
+<!-- Light mode banner -->
+![light-banner](https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,50:e8f5e9,100:ffffff&height=200&section=header&text=Shubham%20Vatsa&fontSize=55&fontColor=0d1117&fontAlignY=45&desc=3rd-year%20SE%20Student%20%C2%B7%20FullStack%20Engineer%20%C2%B7%20Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=65&descColor=1a7a3a&animation=fadeIn#gh-light-mode-only)
 
 <br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=git+push+origin+main+--+deployed+%E2%9C%93;docker+build+.+--+successfully+tagged;npm+run+build+--+compiled+in+0.4s;ssh+vatsa%40bengaluru+--+connected;curl+%2FgetShubham+--+%7B+available%3A+true+%7D)](https://git.io/typing-svg)
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=git+push+origin+main+--+deployed+%E2%9C%93;docker+build+.+--+successfully+tagged;npm+run+build+--+compiled+in+0.4s;ssh+vatsa%40bengaluru+--+connected;curl+%2FgetShubham+--+%7B+available%3A+true+%7D)](https://git.io/typing-svg)
 
