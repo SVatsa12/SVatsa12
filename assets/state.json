@@ -1,0 +1,34 @@
+{
+  "activity": [
+    {
+      "msg": "feat(outbox): single active relay via a Postgres advisory-lock leader",
+      "repo": "Milestone-escrow-ledger",
+      "url": "https://github.com/SVatsa12/Milestone-escrow-ledger/commit/2c029071f1d627a5f1c4f6f0ca3d37ff0f8a1ed2",
+      "date": "2026-11-15T20:01:08Z"
+    },
+    {
+      "msg": "test: one outbox relay per test JVM (CI reordered an aggregate's events)",
+      "repo": "Milestone-escrow-ledger",
+      "url": "https://github.com/SVatsa12/Milestone-escrow-ledger/commit/f61408cae8c62916e35309b7e6fe51644489a6a0",
+      "date": "2026-11-15T19:16:07Z"
+    },
+    {
+      "msg": "Remove backend API link from README",
+      "repo": "AI-Project-Manager",
+      "url": "https://github.com/SVatsa12/AI-Project-Manager/commit/050dd1ea6388528d549a372efe974f81179e03de",
+      "date": "2026-10-31T22:37:47Z"
+    },
+    {
+      "msg": "fix: update decommissioned groq model to llama-3.3-70b-versatile",
+      "repo": "AI-Project-Manager",
+      "url": "https://github.com/SVatsa12/AI-Project-Manager/commit/080b48087b196f15c111cd3bcb23e221d9771634",
+      "date": "2026-05-28T12:43:28Z"
+    }
+  ],
+  "leetcode": {
+    "total": 293,
+    "easy": 107,
+    "medium": 143,
+    "hard": 43
+  }
+}
