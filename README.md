@@ -38,10 +38,10 @@
 <details>
 <summary><sub>activity log · plain text</sub></summary>
 
-- [docs(chaos): evidence from a full run on JDK 21 with the #54 checks and the #55 fix](https://github.com/SVatsa12/Milestone-escrow-ledger/commit/2552fbcda5c0ca1b7d047625aeb6b89059da051b) · `Milestone-escrow-ledger` · 8h ago
-- [test(arch): scan main sources for synchronized blocks too](https://github.com/SVatsa12/Milestone-escrow-ledger/commit/0179acaf2fe164411e224749655456f0e3880e1a) · `Milestone-escrow-ledger` · 8h ago
-- [Remove backend API link from README](https://github.com/SVatsa12/AI-Project-Manager/commit/050dd1ea6388528d549a372efe974f81179e03de) · `AI-Project-Manager` · 2w ago
-- [fix: update decommissioned groq model to llama-3.3-70b-versatile](https://github.com/SVatsa12/AI-Project-Manager/commit/080b48087b196f15c111cd3bcb23e221d9771634) · `AI-Project-Manager` · 5mo ago
+- [Gate v2, health endpoint and real demo clauses for /api/predict](https://github.com/SVatsa12/Major-Project/commit/c735582b90be3828f80ddd003c79a02bbf8f57d6) · `Major-Project` · 12h ago
+- [Serve /api/predict with the deployed context classifier](https://github.com/SVatsa12/Major-Project/commit/e7f8b31c6e9883e58dc180e350cf6ae0d42a2de9) · `Major-Project` · 12h ago
+- [docs(chaos): evidence from a full run on JDK 21 with the #54 checks and the #55 fix](https://github.com/SVatsa12/Milestone-escrow-ledger/commit/2552fbcda5c0ca1b7d047625aeb6b89059da051b) · `Milestone-escrow-ledger` · 1d ago
+- [test(arch): scan main sources for synchronized blocks too](https://github.com/SVatsa12/Milestone-escrow-ledger/commit/0179acaf2fe164411e224749655456f0e3880e1a) · `Milestone-escrow-ledger` · 1d ago
 
 </details>
 

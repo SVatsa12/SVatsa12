@@ -1,6 +1,18 @@
 {
   "activity": [
     {
+      "msg": "Gate v2, health endpoint and real demo clauses for /api/predict",
+      "repo": "Major-Project",
+      "url": "https://github.com/SVatsa12/Major-Project/commit/c735582b90be3828f80ddd003c79a02bbf8f57d6",
+      "date": "2026-11-16T20:09:02Z"
+    },
+    {
+      "msg": "Serve /api/predict with the deployed context classifier",
+      "repo": "Major-Project",
+      "url": "https://github.com/SVatsa12/Major-Project/commit/e7f8b31c6e9883e58dc180e350cf6ae0d42a2de9",
+      "date": "2026-11-16T19:28:23Z"
+    },
+    {
       "msg": "docs(chaos): evidence from a full run on JDK 21 with the #54 checks and the #55 fix",
       "repo": "Milestone-escrow-ledger",
       "url": "https://github.com/SVatsa12/Milestone-escrow-ledger/commit/2552fbcda5c0ca1b7d047625aeb6b89059da051b",
@@ -11,23 +23,11 @@
       "repo": "Milestone-escrow-ledger",
       "url": "https://github.com/SVatsa12/Milestone-escrow-ledger/commit/0179acaf2fe164411e224749655456f0e3880e1a",
       "date": "2026-11-15T22:52:29Z"
-    },
-    {
-      "msg": "Remove backend API link from README",
-      "repo": "AI-Project-Manager",
-      "url": "https://github.com/SVatsa12/AI-Project-Manager/commit/050dd1ea6388528d549a372efe974f81179e03de",
-      "date": "2026-10-31T22:37:47Z"
-    },
-    {
-      "msg": "fix: update decommissioned groq model to llama-3.3-70b-versatile",
-      "repo": "AI-Project-Manager",
-      "url": "https://github.com/SVatsa12/AI-Project-Manager/commit/080b48087b196f15c111cd3bcb23e221d9771634",
-      "date": "2026-05-28T12:43:28Z"
     }
   ],
   "leetcode": {
-    "total": 294,
-    "easy": 108,
+    "total": 295,
+    "easy": 109,
     "medium": 143,
     "hard": 43
   }
