@@ -38,10 +38,11 @@
 <details>
 <summary><sub>activity log · plain text</sub></summary>
 
-- [feat: link footer admin button to login page and update demo credentials](https://github.com/SVatsa12/tactyqal-labs/commit/88335a9d467fae3fa4e43cee70095179765141ad) · `tactyqal-labs` · 5h ago
-- [fix(web): make navbar Blog link smooth scroll to #blog section](https://github.com/SVatsa12/tactyqal-labs/commit/73cfe1b9d6aa8e77109914c5cd3da2250a71f024) · `tactyqal-labs` · 6h ago
-- [Gate v2, health endpoint and real demo clauses for /api/predict](https://github.com/SVatsa12/Major-Project/commit/c735582b90be3828f80ddd003c79a02bbf8f57d6) · `Major-Project` · 1d ago
-- [Serve /api/predict with the deployed context classifier](https://github.com/SVatsa12/Major-Project/commit/e7f8b31c6e9883e58dc180e350cf6ae0d42a2de9) · `Major-Project` · 1d ago
+- [migrating database and improving ui](https://github.com/SVatsa12/SnapLink/commit/a6349a77cbbe96aac96f777a9c096baeaea18be0) · `SnapLink` · 8h ago
+- [Log auth errors to console](https://github.com/SVatsa12/SnapLink/commit/955c9304cefd859e15dedb8aa01e4fc485f501c3) · `SnapLink` · 9h ago
+- [feat: split-screen sign-in page on desktop](https://github.com/SVatsa12/carepal-support/commit/1f3919b3d3ab26ffd3100c2a05156ae28dff4445) · `carepal-support` · 19h ago
+- [docs: README](https://github.com/SVatsa12/carepal-support/commit/ee45bbbef5fb8b6b3de29134e289577025fb0bd5) · `carepal-support` · 19h ago
+- [feat: link footer admin button to login page and update demo credentials](https://github.com/SVatsa12/tactyqal-labs/commit/88335a9d467fae3fa4e43cee70095179765141ad) · `tactyqal-labs` · 1d ago
 
 </details>
 

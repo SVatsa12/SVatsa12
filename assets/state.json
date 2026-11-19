@@ -1,28 +1,34 @@
 {
   "activity": [
     {
+      "msg": "migrating database and improving ui",
+      "repo": "SnapLink",
+      "url": "https://github.com/SVatsa12/SnapLink/commit/a6349a77cbbe96aac96f777a9c096baeaea18be0",
+      "date": "2026-11-18T23:20:59Z"
+    },
+    {
+      "msg": "Log auth errors to console",
+      "repo": "SnapLink",
+      "url": "https://github.com/SVatsa12/SnapLink/commit/955c9304cefd859e15dedb8aa01e4fc485f501c3",
+      "date": "2026-11-18T22:02:31Z"
+    },
+    {
+      "msg": "feat: split-screen sign-in page on desktop",
+      "repo": "carepal-support",
+      "url": "https://github.com/SVatsa12/carepal-support/commit/1f3919b3d3ab26ffd3100c2a05156ae28dff4445",
+      "date": "2026-11-18T12:04:08Z"
+    },
+    {
+      "msg": "docs: README",
+      "repo": "carepal-support",
+      "url": "https://github.com/SVatsa12/carepal-support/commit/ee45bbbef5fb8b6b3de29134e289577025fb0bd5",
+      "date": "2026-11-18T11:58:57Z"
+    },
+    {
       "msg": "feat: link footer admin button to login page and update demo credentials",
       "repo": "tactyqal-labs",
       "url": "https://github.com/SVatsa12/tactyqal-labs/commit/88335a9d467fae3fa4e43cee70095179765141ad",
       "date": "2026-11-18T02:03:34Z"
-    },
-    {
-      "msg": "fix(web): make navbar Blog link smooth scroll to #blog section",
-      "repo": "tactyqal-labs",
-      "url": "https://github.com/SVatsa12/tactyqal-labs/commit/73cfe1b9d6aa8e77109914c5cd3da2250a71f024",
-      "date": "2026-11-18T01:43:31Z"
-    },
-    {
-      "msg": "Gate v2, health endpoint and real demo clauses for /api/predict",
-      "repo": "Major-Project",
-      "url": "https://github.com/SVatsa12/Major-Project/commit/c735582b90be3828f80ddd003c79a02bbf8f57d6",
-      "date": "2026-11-16T20:09:02Z"
-    },
-    {
-      "msg": "Serve /api/predict with the deployed context classifier",
-      "repo": "Major-Project",
-      "url": "https://github.com/SVatsa12/Major-Project/commit/e7f8b31c6e9883e58dc180e350cf6ae0d42a2de9",
-      "date": "2026-11-16T19:28:23Z"
     }
   ],
   "leetcode": {
