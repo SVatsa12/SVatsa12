@@ -1,6 +1,18 @@
 {
   "activity": [
     {
+      "msg": "resolved bugs",
+      "repo": "carepal-support",
+      "url": "https://github.com/SVatsa12/carepal-support/commit/8543f024c93b1765b280106feabcafc19dd18e74",
+      "date": "2026-11-19T14:55:23Z"
+    },
+    {
+      "msg": "\"Changes in the login",
+      "repo": "carepal-support",
+      "url": "https://github.com/SVatsa12/carepal-support/commit/56a0a4cb149484b7ad770ae2ff14fb8fe1633d4c",
+      "date": "2026-11-19T13:31:28Z"
+    },
+    {
       "msg": "migrating database and improving ui",
       "repo": "SnapLink",
       "url": "https://github.com/SVatsa12/SnapLink/commit/a6349a77cbbe96aac96f777a9c096baeaea18be0",
@@ -13,18 +25,6 @@
       "date": "2026-11-18T22:02:31Z"
     },
     {
-      "msg": "feat: split-screen sign-in page on desktop",
-      "repo": "carepal-support",
-      "url": "https://github.com/SVatsa12/carepal-support/commit/1f3919b3d3ab26ffd3100c2a05156ae28dff4445",
-      "date": "2026-11-18T12:04:08Z"
-    },
-    {
-      "msg": "docs: README",
-      "repo": "carepal-support",
-      "url": "https://github.com/SVatsa12/carepal-support/commit/ee45bbbef5fb8b6b3de29134e289577025fb0bd5",
-      "date": "2026-11-18T11:58:57Z"
-    },
-    {
       "msg": "feat: link footer admin button to login page and update demo credentials",
       "repo": "tactyqal-labs",
       "url": "https://github.com/SVatsa12/tactyqal-labs/commit/88335a9d467fae3fa4e43cee70095179765141ad",
@@ -32,8 +32,8 @@
     }
   ],
   "leetcode": {
-    "total": 296,
-    "easy": 110,
+    "total": 297,
+    "easy": 111,
     "medium": 143,
     "hard": 43
   }

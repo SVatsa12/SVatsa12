@@ -38,11 +38,11 @@
 <details>
 <summary><sub>activity log · plain text</sub></summary>
 
-- [migrating database and improving ui](https://github.com/SVatsa12/SnapLink/commit/a6349a77cbbe96aac96f777a9c096baeaea18be0) · `SnapLink` · 8h ago
-- [Log auth errors to console](https://github.com/SVatsa12/SnapLink/commit/955c9304cefd859e15dedb8aa01e4fc485f501c3) · `SnapLink` · 9h ago
-- [feat: split-screen sign-in page on desktop](https://github.com/SVatsa12/carepal-support/commit/1f3919b3d3ab26ffd3100c2a05156ae28dff4445) · `carepal-support` · 19h ago
-- [docs: README](https://github.com/SVatsa12/carepal-support/commit/ee45bbbef5fb8b6b3de29134e289577025fb0bd5) · `carepal-support` · 19h ago
-- [feat: link footer admin button to login page and update demo credentials](https://github.com/SVatsa12/tactyqal-labs/commit/88335a9d467fae3fa4e43cee70095179765141ad) · `tactyqal-labs` · 1d ago
+- [resolved bugs](https://github.com/SVatsa12/carepal-support/commit/8543f024c93b1765b280106feabcafc19dd18e74) · `carepal-support` · 16h ago
+- [&quot;Changes in the login](https://github.com/SVatsa12/carepal-support/commit/56a0a4cb149484b7ad770ae2ff14fb8fe1633d4c) · `carepal-support` · 18h ago
+- [migrating database and improving ui](https://github.com/SVatsa12/SnapLink/commit/a6349a77cbbe96aac96f777a9c096baeaea18be0) · `SnapLink` · 1d ago
+- [Log auth errors to console](https://github.com/SVatsa12/SnapLink/commit/955c9304cefd859e15dedb8aa01e4fc485f501c3) · `SnapLink` · 1d ago
+- [feat: link footer admin button to login page and update demo credentials](https://github.com/SVatsa12/tactyqal-labs/commit/88335a9d467fae3fa4e43cee70095179765141ad) · `tactyqal-labs` · 2d ago
 
 </details>
 
