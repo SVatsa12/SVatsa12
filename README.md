@@ -38,10 +38,10 @@
 <details>
 <summary><sub>activity log · plain text</sub></summary>
 
-- [Update project report clause counts](https://github.com/SVatsa12/Major-Project/commit/8f55d079937222621ca2b764c4078cfce43e5e31) · `Major-Project` · 3d ago
-- [Update project clause counts](https://github.com/SVatsa12/Major-Project/commit/4212206318731dae731ac9e39dcf4ac0fa982b0a) · `Major-Project` · 3d ago
-- [resolved bugs](https://github.com/SVatsa12/carepal-support/commit/8543f024c93b1765b280106feabcafc19dd18e74) · `carepal-support` · 5d ago
-- [&quot;Changes in the login](https://github.com/SVatsa12/carepal-support/commit/56a0a4cb149484b7ad770ae2ff14fb8fe1633d4c) · `carepal-support` · 5d ago
+- [Update project report clause counts](https://github.com/SVatsa12/Major-Project/commit/8f55d079937222621ca2b764c4078cfce43e5e31) · `Major-Project` · 4d ago
+- [Update project clause counts](https://github.com/SVatsa12/Major-Project/commit/4212206318731dae731ac9e39dcf4ac0fa982b0a) · `Major-Project` · 4d ago
+- [resolved bugs](https://github.com/SVatsa12/carepal-support/commit/8543f024c93b1765b280106feabcafc19dd18e74) · `carepal-support` · 6d ago
+- [&quot;Changes in the login](https://github.com/SVatsa12/carepal-support/commit/56a0a4cb149484b7ad770ae2ff14fb8fe1633d4c) · `carepal-support` · 6d ago
 
 </details>
 
